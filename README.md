@@ -23,6 +23,12 @@
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yuikateraoka&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuikateraoka/)
 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuikateraoka&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuikateraoka" />
+</a> -->
 
 <!-- リポジトリchart -->
 [![github-chart](https://github-chart.vercel.app/api?user=yuikateraoka)](https://github.com/yuikateraoka/github-chart)
