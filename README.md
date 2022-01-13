@@ -21,8 +21,7 @@
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=yuikateraoka&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuikateraoka/)
 
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuikateraoka&layout=compact&theme=tokyonight)](https://github.com/yuikateraoka/)
+
 
 <!-- リポジトリchart -->
 [![github-chart](https://github-chart.vercel.app/api?user=yuikateraoka)](https://github.com/yuikateraoka/github-chart)
