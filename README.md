@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **about Vue.js.**
 
-- 🤝 I’m looking for help with **S!NERGY!**
+<!-- - 🤝 I’m looking for help with **S!NERGY!** -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
