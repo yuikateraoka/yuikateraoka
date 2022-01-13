@@ -24,6 +24,9 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuikateraoka&layout=compact&theme=tokyonight)](https://github.com/yuikateraoka/)
 
+<!-- リポジトリchart -->
+[![github-chart](https://github-chart.vercel.app/api?user=yuikateraoka)](https://github.com/yuikateraoka/github-chart)
+
 <p align="left"> 
   <a href="https://github.com/yuikateraoka/yuikateraoka/">
     <img src="https://komarev.com/ghpvc/?username=yuikateraoka" alt="yuikateraoka" />
@@ -44,6 +47,8 @@
   </a>
 </p>
 
+
+  
 <!--
 **yuikateraoka/yuikateraoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
