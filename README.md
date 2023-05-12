@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi 👋, I'm YuikaTeraoka</h1>
+<h1 align="center">Hi 👋, I'm Yuika</h1>
 <h3 align="center">I am a student who studying AI at a Korean university!<br><br>
   I love to analyze data😄HaHa!</h3><br><br>
 
